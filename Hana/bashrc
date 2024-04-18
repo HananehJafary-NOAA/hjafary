@@ -29,6 +29,8 @@ alias la='ls -AC'
 alias ll='ls -l'
 alias ls='ls -CF'
 alias lsa='ls -al'
+
+alias grso='git remote show origin'
 # ---------------------------------------Jobs-------------------------------------- #
 
 alias sq='squeue -u $USER -o "%.10i %.10P %.50j %.15u %.10T %.10M %.10L %.4D %R"'
